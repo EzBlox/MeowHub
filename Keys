@@ -1,0 +1,5 @@
+local FavWords = {
+    "Hello",
+    "Lol",
+    "Pizza",
+};
