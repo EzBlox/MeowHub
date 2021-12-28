@@ -1,4 +1,0 @@
--- Leaking this loader will result in a blacklist/ban from access of the hub!
--- This loader contains your unique key DO NOT share/leak this key
-shared.key = "KEY HERE"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Me0wHub/MeowForMe/main/MeowHub", true))()
